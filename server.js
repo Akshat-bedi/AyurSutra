@@ -7,6 +7,14 @@ const compression = require('compression');
 const morgan = require('morgan');
 require('dotenv').config();
 
+// ✅ Using environment variable
+require('dotenv').config(); // make sure this is at the top of server.js
+
+mongoose.connect(process.env.MONGO_URI)
+  .then(() => console.log('✅ MongoDB Connected'))
+  .catch(err => console.log('❌ Database connection failed:', err));
+
+
 // Import routes
 // const authRoutes = require('./routes/auth');
 // const therapyRoutes = require('./routes/therapy');
