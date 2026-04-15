@@ -1,6 +1,6 @@
 # AyurSutra - Panchakarma Management System
 
-## 🌿 Smart Healthcare Solution for Ayurvedic Wellness
+##  Smart Healthcare Solution for Ayurvedic Wellness
 
 **Developed for Smart India Hackathon (SIH) 2025**
 
@@ -8,7 +8,7 @@ AyurSutra is a comprehensive Panchakarma management platform that bridges ancien
 
 ---
 
-## 🎯 Problem Statement
+##  Problem Statement
 
 The traditional Panchakarma therapy sector faces critical challenges:
 - **Inefficient manual scheduling** leading to resource conflicts
@@ -20,21 +20,21 @@ With Panchakarma gaining global recognition for chronic disease management and w
 
 ---
 
-## 🚀 Solution Overview
+##  Solution Overview
 
 AyurSutra provides a complete digital ecosystem for Panchakarma centers, practitioners, and patients:
 
 ### Core Features
-- **🤖 Automated Therapy Scheduling** - AI-powered system for optimal resource allocation
-- **📱 Multi-Channel Notifications** - SMS, email, and in-app alerts for pre/post-care
-- **📊 Real-Time Progress Tracking** - Visual dashboards with personalized milestones
-- **🔄 Integrated Feedback Loop** - Continuous improvement through patient insights
-- **👩‍⚕️ Expert Consultation Portal** - Connect with certified practitioners
-- **🔐 Secure & Compliant** - HIPAA-compliant data protection
+- ** Automated Therapy Scheduling** - AI-powered system for optimal resource allocation
+- ** Multi-Channel Notifications** - SMS, email, and in-app alerts for pre/post-care
+- ** Real-Time Progress Tracking** - Visual dashboards with personalized milestones
+- ** Integrated Feedback Loop** - Continuous improvement through patient insights
+- ** Expert Consultation Portal** - Connect with certified practitioners
+- ** Secure & Compliant** - HIPAA-compliant data protection
 
 ---
 
-## 💡 Innovation Highlights
+##  Innovation Highlights
 
 ### 1. **Smart Scheduling Engine**
 - Resource optimization algorithms
@@ -97,13 +97,13 @@ AyurSutra provides a complete digital ecosystem for Panchakarma centers, practit
 
 ---
 
-## 🎨 Design Philosophy
+##  Design Philosophy
 
 ### Ayurveda-Inspired Theme
-- **🎨 Color Palette**: Natural greens, earth tones, saffron accents
-- **🌸 Visual Elements**: Lotus motifs, mandala patterns, herbal illustrations
-- **✨ Animations**: Gentle, healing-focused micro-interactions
-- **📱 Responsive**: Mobile-first approach for accessibility
+- ** Color Palette**: Natural greens, earth tones, saffron accents
+- ** Visual Elements**: Lotus motifs, mandala patterns, herbal illustrations
+- ** Animations**: Gentle, healing-focused micro-interactions
+- ** Responsive**: Mobile-first approach for accessibility
 
 ### User Experience
 - **Intuitive Navigation**: Clean, meditation-app inspired interface
@@ -113,7 +113,7 @@ AyurSutra provides a complete digital ecosystem for Panchakarma centers, practit
 
 ---
 
-## 🏥 Target User Groups
+##  Target User Groups
 
 ### 1. **Panchakarma Centers**
 - Automated center management
@@ -141,7 +141,7 @@ AyurSutra provides a complete digital ecosystem for Panchakarma centers, practit
 
 ---
 
-## 📊 Market Impact
+##  Market Impact
 
 ### Addressable Market
 - **Global Ayurveda Market**: USD 16 billion by 2026
@@ -160,26 +160,26 @@ AyurSutra provides a complete digital ecosystem for Panchakarma centers, practit
 ## 🔧 Implementation Roadmap
 
 ### Phase 1: Core Platform (Months 1-3)
-- ✅ User authentication and role management
-- ✅ Basic scheduling system
-- ✅ Notification framework
-- ✅ Patient portal development
+-  User authentication and role management
+-  Basic scheduling system
+-  Notification framework
+-  Patient portal development
 
 ### Phase 2: Advanced Features (Months 4-6)
-- 📊 Progress tracking and analytics
-- 🤖 AI-powered recommendations
-- 📱 Mobile application
-- 🔗 Third-party integrations
+-  Progress tracking and analytics
+-  AI-powered recommendations
+-  Mobile application
+-  Third-party integrations
 
 ### Phase 3: Scale & Optimize (Months 7-12)
-- 🌐 Multi-language support
-- 🏥 Multi-center management
-- 📈 Advanced analytics
-- 🤝 Partner ecosystem
+-  Multi-language support
+-  Multi-center management
+-  Advanced analytics
+-  Partner ecosystem
 
 ---
 
-## 🏆 Competitive Advantages
+##  Competitive Advantages
 
 ### 1. **Ayurveda-First Design**
 Unlike generic healthcare software, AyurSutra is built specifically for Panchakarma workflows and traditional practices.
@@ -198,48 +198,48 @@ AyurBot provides instant Ayurvedic guidance, making traditional knowledge access
 
 ---
 
-## 📱 Mobile-First Approach
+##  Mobile-First Approach
 
 ### Progressive Web App (PWA)
-- **📱 Native-like Experience**: App-like interface on mobile devices
-- **🔄 Offline Capability**: Core features work without internet
-- **📲 Push Notifications**: Real-time alerts and reminders
-- **⚡ Fast Loading**: Optimized performance on slow networks
+- ** Native-like Experience**: App-like interface on mobile devices
+- ** Offline Capability**: Core features work without internet
+- ** Push Notifications**: Real-time alerts and reminders
+- ** Fast Loading**: Optimized performance on slow networks
 
 ---
 
-## 🔒 Security & Compliance
+##  Security & Compliance
 
 ### Data Protection
-- **🛡️ HIPAA Compliance**: Medical data protection standards
-- **🔐 End-to-End Encryption**: Secure data transmission
-- **👤 Privacy Controls**: Patient data ownership rights
-- **📋 Audit Trails**: Comprehensive activity logging
+- ** HIPAA Compliance**: Medical data protection standards
+- ** End-to-End Encryption**: Secure data transmission
+- ** Privacy Controls**: Patient data ownership rights
+- ** Audit Trails**: Comprehensive activity logging
 
 ### Technical Security
-- **🔑 Multi-Factor Authentication**: Enhanced account security
-- **🚨 Intrusion Detection**: Real-time threat monitoring
-- **💾 Secure Backups**: Encrypted data recovery systems
-- **🔄 Regular Updates**: Continuous security improvements
+- ** Multi-Factor Authentication**: Enhanced account security
+- ** Intrusion Detection**: Real-time threat monitoring
+- ** Secure Backups**: Encrypted data recovery systems
+- ** Regular Updates**: Continuous security improvements
 
 ---
 
-## 🌱 Sustainability & Social Impact
+##  Sustainability & Social Impact
 
 ### Environmental Consciousness
-- **📄 Paperless Operations**: Digital record keeping
-- **🌿 Eco-Friendly Practices**: Sustainable therapy recommendations
-- **♻️ Resource Optimization**: Reduced waste through better planning
+- ** Paperless Operations**: Digital record keeping
+- ** Eco-Friendly Practices**: Sustainable therapy recommendations
+- ** Resource Optimization**: Reduced waste through better planning
 
 ### Social Benefits
-- **🏥 Healthcare Accessibility**: Bringing Ayurveda to remote areas
-- **💡 Knowledge Preservation**: Digitizing traditional practices
-- **🤝 Community Building**: Connecting practitioners globally
-- **📚 Education Platform**: Spreading Ayurvedic awareness
+- ** Healthcare Accessibility**: Bringing Ayurveda to remote areas
+- ** Knowledge Preservation**: Digitizing traditional practices
+- ** Community Building**: Connecting practitioners globally
+- ** Education Platform**: Spreading Ayurvedic awareness
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 **Special Thanks To:**
 - **Smart India Hackathon 2025** for providing this platform
@@ -256,5 +256,3 @@ This project is developed for Smart India Hackathon 2025. The codebase follows o
 ---
 
 *"Bridging Ancient Wisdom with Modern Innovation"*
-
-**🏆 Built with ❤️ for SIH 2025 | Transforming Healthcare Through Technology**
